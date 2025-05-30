@@ -1,0 +1,10 @@
+com\railway\api_gateway\service\JWTService.class
+com\railway\api_gateway\repository\UserRepository.class
+com\railway\api_gateway\service\MyUserDetailsService.class
+com\railway\api_gateway\filter\JWTFilter.class
+com\railway\api_gateway\model\UserPrincipal.class
+com\railway\api_gateway\controller\UserController.class
+com\railway\api_gateway\ApiGatewayApplication.class
+com\railway\api_gateway\config\SecurityConfig.class
+com\railway\api_gateway\controller\GatewayController.class
+com\railway\api_gateway\service\UserService.class

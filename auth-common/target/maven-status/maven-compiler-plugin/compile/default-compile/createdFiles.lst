@@ -1,0 +1,17 @@
+com\railway\common\dto\PassengerDTO.class
+com\railway\common\exceptions\ResourceNotFoundException.class
+com\railway\common\dto\ResponseStructureDTO.class
+com\railway\common\dto\TrainClassDTO.class
+com\railway\common\enums\Role.class
+com\railway\common\enums\BookingStatus.class
+com\railway\common\dto\ReservationResponseDTO.class
+com\railway\common\dto\TrainClassDTO$TrainClassDTOBuilder.class
+com\railway\common\dto\UserResponseDTO$UserResponseDTOBuilder.class
+com\railway\common\dto\ReservationResponseDTO$ReservationResponseDTOBuilder.class
+com\railway\common\dto\EmailRequestDTO.class
+com\railway\api_gateway\entity\User$UserBuilder.class
+com\railway\common\dto\UserResponseDTO.class
+com\railway\common\dto\TrainResponseDTO.class
+com\railway\common\dto\TrainResponseDTO$TrainResponseDTOBuilder.class
+com\railway\common\dto\PassengerDTO$PassengerDTOBuilder.class
+com\railway\api_gateway\entity\User.class

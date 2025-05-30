@@ -1,0 +1,5 @@
+# Created at 2025-05-13T17:13:19.419
+Boot Manifest-JAR contains absolute paths in classpath 'D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

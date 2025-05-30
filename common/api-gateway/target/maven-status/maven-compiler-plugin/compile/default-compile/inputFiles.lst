@@ -1,0 +1,10 @@
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\ApiGatewayApplication.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\config\SecurityConfig.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\controller\GatewayController.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\controller\UserController.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\filter\JWTFilter.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\model\UserPrincipal.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\repository\UserRepository.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\service\JWTService.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\service\MyUserDetailsService.java
+D:\RailwayReservationSystem without security\RailwayReservationSystem\api-gateway\src\main\java\com\railway\api_gateway\service\UserService.java
